@@ -1,0 +1,24 @@
+{
+  "name": "sequelize-expressstarterguide",
+  "version": "1.0.0",
+  "description": "_Based off of: http://docs.sequelizejs.com/en/1.7.0/articles/express/_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matzy20/Sequelize-ExpressStarterGuide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matzy20/Sequelize-ExpressStarterGuide/issues"
+  },
+  "homepage": "https://github.com/matzy20/Sequelize-ExpressStarterGuide#readme",
+  "dependencies": {
+    "pg": "^4.4.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.17.3"
+  }
+}
